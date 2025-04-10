@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/pyramid.png" alt="Image of pyramid with labeled sides" width="250" />
+        <img src="./images/thermometer.png" alt="Image of thermometer with labels" width="250" />
       </div>
       <br />
       <div class="page-content">
